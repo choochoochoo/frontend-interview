@@ -19,3 +19,6 @@ http://getinstance.info/articles/javascript/immediately-invoked-function-express
 # function style
 http://webtackles.ru/javascript/introduction-to-func-js-arrays/
 http://jsraccoon.ru/fn-array-methods
+
+# garbage collection
+http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection
