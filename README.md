@@ -3,6 +3,7 @@ Prepare for interview
 
 # main 
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/README.md#js-questions
+https://gist.github.com/codedokode/ce30e7a036f18f416ae0
 
 
 # безопасность
