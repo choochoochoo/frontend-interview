@@ -18,3 +18,4 @@ http://getinstance.info/articles/javascript/immediately-invoked-function-express
 
 # function style
 http://webtackles.ru/javascript/introduction-to-func-js-arrays/
+http://jsraccoon.ru/fn-array-methods
