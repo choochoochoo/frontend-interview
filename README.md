@@ -15,3 +15,6 @@ https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/READ
 
 # IIFE
 http://getinstance.info/articles/javascript/immediately-invoked-function-expressions/
+
+# function style
+http://webtackles.ru/javascript/introduction-to-func-js-arrays/
