@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=ckyxNII7UJk
 
 #life cycle 
 https://developers.google.com/web/fundamentals/performance/rendering/
+
+# интервью
+http://andrew-r.ru/notes/?go=all/searching-for-job-2016/
