@@ -41,27 +41,4 @@ http://andrew-r.ru/notes/?go=all/searching-for-job-2016/
 
 # tasks
 
-function add(a,b){
-        var ddd = function (b){return a+b;};
-        if(typeof b =='undefined'){
-            return ddd;
-        }else{
-            return ddd(b);
-        }
-    }
-
-add(2)(3) // 5
-add(2,3) // 5
-
-function add(x) {
-    return function(y) {
-        if (typeof y !== 'undefined') {
-            x = x + y;
-            return arguments.callee;
-        } else {
-            return x;
-        }
-    };
-}
-add(1)(2)(3)(); //6
-add(1)(1)(1)(1)(1)(1)(); //6
+http://stackoverflow.com/questions/2272902/make-this-syntax-possible-var-a-add23-5
