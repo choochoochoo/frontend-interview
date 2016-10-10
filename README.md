@@ -45,3 +45,4 @@ http://stackoverflow.com/questions/2272902/make-this-syntax-possible-var-a-add23
 http://stackoverflow.com/questions/1885557/simplest-code-for-array-intersection-in-javascript
 
 array.join('').replace(/,/g, '').split('').map(function(item){return parseInt(item, 10);})
+http://interosite.ru/articles/chto-takoe-prototipnoe-nasledovanie-prototipy-obektov-v-javascript
