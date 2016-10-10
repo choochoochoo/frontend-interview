@@ -43,3 +43,5 @@ http://andrew-r.ru/notes/?go=all/searching-for-job-2016/
 
 http://stackoverflow.com/questions/2272902/make-this-syntax-possible-var-a-add23-5  
 http://stackoverflow.com/questions/1885557/simplest-code-for-array-intersection-in-javascript
+
+array.join('').replace(/,/g, '').split('').map(function(item){return parseInt(item, 10);})
